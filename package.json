@@ -30,7 +30,7 @@
     ]
   },
   "devDependencies": {
-    "electron": "^6.0.11"
+    "electron": "^7.2.4"
   },
   "productName": "Electron Create React App Example",
   "main": "electron/main.js"
